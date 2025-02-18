@@ -1,1 +1,0 @@
-{"name":"Local: primeTogether","url":"d:\\sourceCode\\Python\\pythonCodePtit\\primeTogether.py","tests":[{"id":1706108300069,"input":"5\n3 7 9 6 13","output":"3 7\n3 13\n6 7\n6 13\n7 9\n7 13\n9 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\primeTogether.py","group":"local","local":true}

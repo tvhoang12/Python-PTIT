@@ -1,1 +1,0 @@
-{"name":"Local: findNumber","url":"d:\\sourceCode\\Python\\pythonCodePtit\\findNumber.py","tests":[{"id":1706005158406,"input":"2\n12ab29cd19\nab123gh456cd","output":"12\n123"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\findNumber.py","group":"local","local":true}

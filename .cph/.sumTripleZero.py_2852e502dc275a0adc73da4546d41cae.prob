@@ -1,1 +1,0 @@
-{"name":"Local: sumTripleZero","url":"d:\\sourceCode\\Python\\pythonCodePtit\\sumTripleZero.py","tests":[{"id":1705975884216,"input":"2\n5\n0 -1 2 -3 1 \n5\n1 -2  1  0  5","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\sumTripleZero.py","group":"local","local":true}

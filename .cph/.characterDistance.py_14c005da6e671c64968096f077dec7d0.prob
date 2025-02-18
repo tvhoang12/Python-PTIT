@@ -1,1 +1,0 @@
-{"name":"Local: characterDistance","url":"d:\\sourceCode\\Python\\pythonCodePtit\\characterDistance.py","tests":[{"id":1705736171228,"input":"2\nacxz\nbcxz","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\characterDistance.py","group":"local","local":true}

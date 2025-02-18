@@ -1,1 +1,0 @@
-{"name":"Local: changeTheBase","url":"d:\\sourceCode\\Python\\pythonCodePtit\\changeTheBase.py","tests":[{"id":1705852457054,"input":"2\n8\n10010100010010101\n2\n10010100010010101","output":"224225\n10010100010010101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\changeTheBase.py","group":"local","local":true}

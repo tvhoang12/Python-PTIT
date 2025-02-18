@@ -1,1 +1,0 @@
-{"name":"Local: changeDigit","url":"d:\\sourceCode\\Python\\pythonCodePtit\\changeDigit.py","tests":[{"id":1705974633754,"input":"1\n5 6\n645  666","output":"1100 1312"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\changeDigit.py","group":"local","local":true}

@@ -1,1 +1,0 @@
-{"name":"Local: devidedBy7","url":"d:\\sourceCode\\Python\\pythonCodePtit\\devidedBy7.py","tests":[{"id":1705633726406,"input":"5\n1\n2\n3\n4\n999999","output":"77\n77\n9447438\n77\n999999"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\devidedBy7.py","group":"local","local":true}
