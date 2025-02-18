@@ -1,0 +1,1 @@
+{"name":"Local: theSameElement","url":"d:\\sourceCode\\Python\\pythonCodePtit\\theSameElement.py","tests":[{"id":1708396177106,"input":"2\n9\n1 2 1\n10\n2 5 4","output":"5\n14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\theSameElement.py","group":"local","local":true}

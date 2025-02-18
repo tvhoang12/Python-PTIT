@@ -1,0 +1,1 @@
+{"name":"Local: insertString","url":"d:\\sourceCode\\Python\\pythonCodePtit\\insertString.py","tests":[{"id":1708521987930,"input":"mon thcs2 hoc de\nngon ngu C.\n1","output":"ngon ngu C.mon thcs2 hoc de"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\insertString.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: primeLocation","url":"d:\\sourceCode\\Python\\pythonCodePtit\\primeLocation.py","tests":[{"id":1705848120463,"input":"3\n1400000\n14239567\n2314514535353","output":"NO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\primeLocation.py","group":"local","local":true}

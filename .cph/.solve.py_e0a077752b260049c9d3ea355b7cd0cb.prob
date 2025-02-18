@@ -1,0 +1,1 @@
+{"name":"Local: solve","url":"d:\\sourceCode\\Python\\pythonCodePtit\\solve.py","tests":[{"id":1706455047873,"input":"3\nAACDDPQ\n11111147g\n1111111111","output":"2A1C2D1P1Q\n6114171g\n101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sourceCode\\Python\\pythonCodePtit\\solve.py","group":"local","local":true}
